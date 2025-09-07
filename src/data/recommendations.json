@@ -1,0 +1,1384 @@
+{
+  "Family": [
+    {
+      "name": "Kolkata Grand Family Hotel",
+      "city": "Kolkata",
+      "image": "https://images.pexels.com/photos/258154/pexels-photo-258154.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "overall_score": 91,
+      "price_range": 2800,
+      "features": [
+        {
+          "name": "Cleanliness",
+          "score": 83
+        },
+        {
+          "name": "Location",
+          "score": 80
+        },
+        {
+          "name": "Service",
+          "score": 80
+        },
+        {
+          "name": "Value",
+          "score": 91
+        },
+        {
+          "name": "Facilities",
+          "score": 73
+        }
+      ],
+      "badges": [
+        "Luxury Pick",
+        "Family Friendly"
+      ],
+      "platform_ratings": {
+        "Google": 4.3,
+        "Booking": 4.4,
+        "MakeMyTrip": 4.6,
+        "TripAdvisor": 4.3
+      },
+      "booking_links": {
+        "Google": "https://www.google.com/travel/hotels/entity?q=Kolkata+Grand+Family+Hotel",
+        "Booking": "https://www.booking.com/searchresults.html?ss=Kolkata+Grand+Family+Hotel",
+        "MakeMyTrip": "https://www.makemytrip.com/hotels/hotel-listing/?checkin=&checkout=&city=CTKOK&country=IN&searchText=Kolkata+Grand+Family+Hotel",
+        "TripAdvisor": "https://www.tripadvisor.in/Search?q=Kolkata+Grand+Family+Hotel"
+      },
+      "coordinates": {
+        "lat": 22.572646,
+        "lng": 88.363895
+      }
+    },
+    {
+      "name": "Bangalore Grand Family Hotel",
+      "city": "Bangalore",
+      "image": "https://images.pexels.com/photos/271624/pexels-photo-271624.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "overall_score": 82,
+      "price_range": 1800,
+      "features": [
+        {
+          "name": "Cleanliness",
+          "score": 80
+        },
+        {
+          "name": "Location",
+          "score": 78
+        },
+        {
+          "name": "Service",
+          "score": 80
+        },
+        {
+          "name": "Value",
+          "score": 73
+        },
+        {
+          "name": "Facilities",
+          "score": 94
+        }
+      ],
+      "badges": [
+        "Great Location",
+        "Best Value"
+      ],
+      "platform_ratings": {
+        "Google": 4.6,
+        "Booking": 4.5,
+        "MakeMyTrip": 4.3,
+        "TripAdvisor": 4.0
+      },
+      "booking_links": {
+        "Google": "https://www.google.com/travel/hotels/entity?q=Bangalore+Grand+Family+Hotel",
+        "Booking": "https://www.booking.com/searchresults.html?ss=Bangalore+Grand+Family+Hotel",
+        "MakeMyTrip": "https://www.makemytrip.com/hotels/hotel-listing/?checkin=&checkout=&city=CTBLR&country=IN&searchText=Bangalore+Grand+Family+Hotel",
+        "TripAdvisor": "https://www.tripadvisor.in/Search?q=Bangalore+Grand+Family+Hotel"
+      },
+      "coordinates": {
+        "lat": 12.971599,
+        "lng": 77.594566
+      }
+    },
+    {
+      "name": "Delhi Grand Family Hotel",
+      "city": "Delhi",
+      "image": "https://images.pexels.com/photos/164595/pexels-photo-164595.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "overall_score": 94,
+      "price_range": 3200,
+      "features": [
+        {
+          "name": "Cleanliness",
+          "score": 94
+        },
+        {
+          "name": "Location",
+          "score": 71
+        },
+        {
+          "name": "Service",
+          "score": 76
+        },
+        {
+          "name": "Value",
+          "score": 78
+        },
+        {
+          "name": "Facilities",
+          "score": 87
+        }
+      ],
+      "badges": [
+        "Luxury Pick",
+        "Family Friendly"
+      ],
+      "platform_ratings": {
+        "Google": 4.3,
+        "Booking": 4.6,
+        "MakeMyTrip": 3.9,
+        "TripAdvisor": 5.0
+      },
+      "booking_links": {
+        "Google": "https://www.google.com/travel/hotels/entity?q=Delhi+Grand+Family+Hotel",
+        "Booking": "https://www.booking.com/searchresults.html?ss=Delhi+Grand+Family+Hotel",
+        "MakeMyTrip": "https://www.makemytrip.com/hotels/hotel-listing/?checkin=&checkout=&city=CTDEL&country=IN&searchText=Delhi+Grand+Family+Hotel",
+        "TripAdvisor": "https://www.tripadvisor.in/Search?q=Delhi+Grand+Family+Hotel"
+      },
+      "coordinates": {
+        "lat": 28.704059,
+        "lng": 77.102493
+      }
+    },
+    {
+      "name": "Chennai Grand Family Hotel",
+      "city": "Chennai",
+      "image": "https://images.pexels.com/photos/1134176/pexels-photo-1134176.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "overall_score": 85,
+      "price_range": 2200,
+      "features": [
+        {
+          "name": "Cleanliness",
+          "score": 79
+        },
+        {
+          "name": "Location",
+          "score": 87
+        },
+        {
+          "name": "Service",
+          "score": 70
+        },
+        {
+          "name": "Value",
+          "score": 87
+        },
+        {
+          "name": "Facilities",
+          "score": 83
+        }
+      ],
+      "badges": [
+        "Best Value",
+        "Luxury Pick"
+      ],
+      "platform_ratings": {
+        "Google": 5.0,
+        "Booking": 4.9,
+        "MakeMyTrip": 4.4,
+        "TripAdvisor": 3.9
+      },
+      "booking_links": {
+        "Google": "https://www.google.com/travel/hotels/entity?q=Chennai+Grand+Family+Hotel",
+        "Booking": "https://www.booking.com/searchresults.html?ss=Chennai+Grand+Family+Hotel",
+        "MakeMyTrip": "https://www.makemytrip.com/hotels/hotel-listing/?checkin=&checkout=&city=CTMAA&country=IN&searchText=Chennai+Grand+Family+Hotel",
+        "TripAdvisor": "https://www.tripadvisor.in/Search?q=Chennai+Grand+Family+Hotel"
+      },
+      "coordinates": {
+        "lat": 13.082680,
+        "lng": 80.270721
+      }
+    },
+    {
+      "name": "Mumbai Grand Family Hotel",
+      "city": "Mumbai",
+      "image": "https://images.pexels.com/photos/261102/pexels-photo-261102.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "overall_score": 88,
+      "price_range": 3500,
+      "features": [
+        {
+          "name": "Cleanliness",
+          "score": 85
+        },
+        {
+          "name": "Location",
+          "score": 92
+        },
+        {
+          "name": "Service",
+          "score": 88
+        },
+        {
+          "name": "Value",
+          "score": 82
+        },
+        {
+          "name": "Facilities",
+          "score": 90
+        }
+      ],
+      "badges": [
+        "Great Location",
+        "Family Friendly"
+      ],
+      "platform_ratings": {
+        "Google": 4.4,
+        "Booking": 4.3,
+        "MakeMyTrip": 4.5,
+        "TripAdvisor": 4.2
+      },
+      "booking_links": {
+        "Google": "https://www.google.com/travel/hotels/entity?q=Mumbai+Grand+Family+Hotel",
+        "Booking": "https://www.booking.com/searchresults.html?ss=Mumbai+Grand+Family+Hotel",
+        "MakeMyTrip": "https://www.makemytrip.com/hotels/hotel-listing/?checkin=&checkout=&city=CTBOM&country=IN&searchText=Mumbai+Grand+Family+Hotel",
+        "TripAdvisor": "https://www.tripadvisor.in/Search?q=Mumbai+Grand+Family+Hotel"
+      },
+      "coordinates": {
+        "lat": 19.076090,
+        "lng": 72.877426
+      }
+    },
+    {
+      "name": "Goa Grand Family Resort",
+      "city": "Goa",
+      "image": "https://images.pexels.com/photos/1134176/pexels-photo-1134176.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "overall_score": 89,
+      "price_range": 4200,
+      "features": [
+        {
+          "name": "Cleanliness",
+          "score": 88
+        },
+        {
+          "name": "Location",
+          "score": 95
+        },
+        {
+          "name": "Service",
+          "score": 85
+        },
+        {
+          "name": "Value",
+          "score": 84
+        },
+        {
+          "name": "Facilities",
+          "score": 93
+        }
+      ],
+      "badges": [
+        "Beach Access",
+        "Family Friendly"
+      ],
+      "platform_ratings": {
+        "Google": 4.5,
+        "Booking": 4.4,
+        "MakeMyTrip": 4.3,
+        "TripAdvisor": 4.4
+      },
+      "booking_links": {
+        "Google": "https://www.google.com/travel/hotels/entity?q=Goa+Grand+Family+Resort",
+        "Booking": "https://www.booking.com/searchresults.html?ss=Goa+Grand+Family+Resort",
+        "MakeMyTrip": "https://www.makemytrip.com/hotels/hotel-listing/?checkin=&checkout=&city=CTGOI&country=IN&searchText=Goa+Grand+Family+Resort",
+        "TripAdvisor": "https://www.tripadvisor.in/Search?q=Goa+Grand+Family+Resort"
+      },
+      "coordinates": {
+        "lat": 15.2993,
+        "lng": 74.1240
+      }
+    },
+    {
+      "name": "Jaipur Family Palace",
+      "city": "Jaipur",
+      "image": "https://images.pexels.com/photos/338504/pexels-photo-338504.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "overall_score": 87,
+      "price_range": 2600,
+      "features": [
+        {
+          "name": "Cleanliness",
+          "score": 85
+        },
+        {
+          "name": "Location",
+          "score": 88
+        },
+        {
+          "name": "Service",
+          "score": 82
+        },
+        {
+          "name": "Value",
+          "score": 90
+        },
+        {
+          "name": "Facilities",
+          "score": 85
+        }
+      ],
+      "badges": [
+        "Heritage Hotel",
+        "Family Friendly"
+      ],
+      "platform_ratings": {
+        "Google": 4.4,
+        "Booking": 4.3,
+        "MakeMyTrip": 4.5,
+        "TripAdvisor": 4.2
+      },
+      "booking_links": {
+        "Google": "https://www.google.com/travel/hotels/entity?q=Jaipur+Family+Palace",
+        "Booking": "https://www.booking.com/searchresults.html?ss=Jaipur+Family+Palace",
+        "MakeMyTrip": "https://www.makemytrip.com/hotels/hotel-listing/?checkin=&checkout=&city=CTJAI&country=IN&searchText=Jaipur+Family+Palace",
+        "TripAdvisor": "https://www.tripadvisor.in/Search?q=Jaipur+Family+Palace"
+      },
+      "coordinates": {
+        "lat": 26.9124,
+        "lng": 75.7873
+      }
+    }
+  ],
+  "Couple": [
+    {
+      "name": "Kolkata Grand Couple Hotel",
+      "city": "Kolkata",
+      "image": "https://images.pexels.com/photos/1134176/pexels-photo-1134176.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "overall_score": 93,
+      "price_range": 2500,
+      "features": [
+        {
+          "name": "Cleanliness",
+          "score": 96
+        },
+        {
+          "name": "Location",
+          "score": 85
+        },
+        {
+          "name": "Service",
+          "score": 85
+        },
+        {
+          "name": "Value",
+          "score": 77
+        },
+        {
+          "name": "Facilities",
+          "score": 84
+        }
+      ],
+      "badges": [
+        "Top Breakfast",
+        "Luxury Pick"
+      ],
+      "platform_ratings": {
+        "Google": 4.3,
+        "Booking": 4.9,
+        "MakeMyTrip": 4.4,
+        "TripAdvisor": 4.9
+      },
+      "booking_links": {
+        "Google": "https://www.google.com/travel/hotels/entity?q=Kolkata+Grand+Couple+Hotel",
+        "Booking": "https://www.booking.com/searchresults.html?ss=Kolkata+Grand+Couple+Hotel",
+        "MakeMyTrip": "https://www.makemytrip.com/hotels/hotel-listing/?checkin=&checkout=&city=CTKOK&country=IN&searchText=Kolkata+Grand+Couple+Hotel",
+        "TripAdvisor": "https://www.tripadvisor.in/Search?q=Kolkata+Grand+Couple+Hotel"
+      },
+      "coordinates": {
+        "lat": 22.572646,
+        "lng": 88.363895
+      }
+    },
+    {
+      "name": "Goa Grand Couple Hotel",
+      "city": "Goa",
+      "image": "https://images.pexels.com/photos/338504/pexels-photo-338504.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "overall_score": 93,
+      "price_range": 3800,
+      "features": [
+        {
+          "name": "Cleanliness",
+          "score": 80
+        },
+        {
+          "name": "Location",
+          "score": 99
+        },
+        {
+          "name": "Service",
+          "score": 95
+        },
+        {
+          "name": "Value",
+          "score": 86
+        },
+        {
+          "name": "Facilities",
+          "score": 78
+        }
+      ],
+      "badges": [
+        "Best Value",
+        "Romantic Setting"
+      ],
+      "platform_ratings": {
+        "Google": 4.7,
+        "Booking": 4.8,
+        "MakeMyTrip": 4.5,
+        "TripAdvisor": 4.6
+      },
+      "booking_links": {
+        "Google": "https://www.google.com/travel/hotels/entity?q=Goa+Grand+Couple+Hotel",
+        "Booking": "https://www.booking.com/searchresults.html?ss=Goa+Grand+Couple+Hotel",
+        "MakeMyTrip": "https://www.makemytrip.com/hotels/hotel-listing/?checkin=&checkout=&city=CTGOI&country=IN&searchText=Goa+Grand+Couple+Hotel",
+        "TripAdvisor": "https://www.tripadvisor.in/Search?q=Goa+Grand+Couple+Hotel"
+      },
+      "coordinates": {
+        "lat": 15.2993,
+        "lng": 74.1240
+      }
+    },
+    {
+      "name": "Jaipur Grand Couple Hotel",
+      "city": "Jaipur",
+      "image": "https://images.pexels.com/photos/1134176/pexels-photo-1134176.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "overall_score": 95,
+      "price_range": 2900,
+      "features": [
+        {
+          "name": "Cleanliness",
+          "score": 81
+        },
+        {
+          "name": "Location",
+          "score": 80
+        },
+        {
+          "name": "Service",
+          "score": 87
+        },
+        {
+          "name": "Value",
+          "score": 94
+        },
+        {
+          "name": "Facilities",
+          "score": 87
+        }
+      ],
+      "badges": [
+        "Great Location",
+        "Top Breakfast"
+      ],
+      "platform_ratings": {
+        "Google": 4.9,
+        "Booking": 4.8,
+        "MakeMyTrip": 5.0,
+        "TripAdvisor": 4.1
+      },
+      "booking_links": {
+        "Google": "https://www.google.com/travel/hotels/entity?q=Jaipur+Grand+Couple+Hotel",
+        "Booking": "https://www.booking.com/searchresults.html?ss=Jaipur+Grand+Couple+Hotel",
+        "MakeMyTrip": "https://www.makemytrip.com/hotels/hotel-listing/?checkin=&checkout=&city=CTJAI&country=IN&searchText=Jaipur+Grand+Couple+Hotel",
+        "TripAdvisor": "https://www.tripadvisor.in/Search?q=Jaipur+Grand+Couple+Hotel"
+      },
+      "coordinates": {
+        "lat": 26.9124,
+        "lng": 75.7873
+      }
+    },
+    {
+      "name": "Chennai Grand Couple Hotel",
+      "city": "Chennai",
+      "image": "https://images.pexels.com/photos/271624/pexels-photo-271624.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "overall_score": 93,
+      "price_range": 2600,
+      "features": [
+        {
+          "name": "Cleanliness",
+          "score": 71
+        },
+        {
+          "name": "Location",
+          "score": 80
+        },
+        {
+          "name": "Service",
+          "score": 93
+        },
+        {
+          "name": "Value",
+          "score": 85
+        },
+        {
+          "name": "Facilities",
+          "score": 92
+        }
+      ],
+      "badges": [
+        "Great Location",
+        "Top Breakfast"
+      ],
+      "platform_ratings": {
+        "Google": 5.0,
+        "Booking": 4.8,
+        "MakeMyTrip": 4.6,
+        "TripAdvisor": 4.0
+      },
+      "booking_links": {
+        "Google": "https://www.google.com/travel/hotels/entity?q=Chennai+Grand+Couple+Hotel",
+        "Booking": "https://www.booking.com/searchresults.html?ss=Chennai+Grand+Couple+Hotel",
+        "MakeMyTrip": "https://www.makemytrip.com/hotels/hotel-listing/?checkin=&checkout=&city=CTMAA&country=IN&searchText=Chennai+Grand+Couple+Hotel",
+        "TripAdvisor": "https://www.tripadvisor.in/Search?q=Chennai+Grand+Couple+Hotel"
+      },
+      "coordinates": {
+        "lat": 13.082680,
+        "lng": 80.270721
+      }
+    },
+    {
+      "name": "Mumbai Grand Couple Hotel",
+      "city": "Mumbai",
+      "image": "https://images.pexels.com/photos/338504/pexels-photo-338504.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "overall_score": 90,
+      "price_range": 4100,
+      "features": [
+        {
+          "name": "Cleanliness",
+          "score": 88
+        },
+        {
+          "name": "Location",
+          "score": 94
+        },
+        {
+          "name": "Service",
+          "score": 89
+        },
+        {
+          "name": "Value",
+          "score": 85
+        },
+        {
+          "name": "Facilities",
+          "score": 92
+        }
+      ],
+      "badges": [
+        "Romantic Setting",
+        "Great Location"
+      ],
+      "platform_ratings": {
+        "Google": 4.6,
+        "Booking": 4.7,
+        "MakeMyTrip": 4.4,
+        "TripAdvisor": 4.5
+      },
+      "booking_links": {
+        "Google": "https://www.google.com/travel/hotels/entity?q=Mumbai+Grand+Couple+Hotel",
+        "Booking": "https://www.booking.com/searchresults.html?ss=Mumbai+Grand+Couple+Hotel",
+        "MakeMyTrip": "https://www.makemytrip.com/hotels/hotel-listing/?checkin=&checkout=&city=CTBOM&country=IN&searchText=Mumbai+Grand+Couple+Hotel",
+        "TripAdvisor": "https://www.tripadvisor.in/Search?q=Mumbai+Grand+Couple+Hotel"
+      },
+      "coordinates": {
+        "lat": 19.076090,
+        "lng": 72.877426
+      }
+    }
+  ],
+  "Solo": [
+    {
+      "name": "Jaipur Grand Solo Hotel",
+      "city": "Jaipur",
+      "image": "https://images.pexels.com/photos/258154/pexels-photo-258154.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "overall_score": 83,
+      "price_range": 1200,
+      "features": [
+        {
+          "name": "Cleanliness",
+          "score": 86
+        },
+        {
+          "name": "Location",
+          "score": 99
+        },
+        {
+          "name": "Service",
+          "score": 84
+        },
+        {
+          "name": "Value",
+          "score": 70
+        },
+        {
+          "name": "Facilities",
+          "score": 93
+        }
+      ],
+      "badges": [
+        "Budget Pick",
+        "Great Location"
+      ],
+      "platform_ratings": {
+        "Google": 4.8,
+        "Booking": 5.0,
+        "MakeMyTrip": 3.9,
+        "TripAdvisor": 4.7
+      },
+      "booking_links": {
+        "Google": "https://www.google.com/travel/hotels/entity?q=Jaipur+Grand+Solo+Hotel",
+        "Booking": "https://www.booking.com/searchresults.html?ss=Jaipur+Grand+Solo+Hotel",
+        "MakeMyTrip": "https://www.makemytrip.com/hotels/hotel-listing/?checkin=&checkout=&city=CTJAI&country=IN&searchText=Jaipur+Grand+Solo+Hotel",
+        "TripAdvisor": "https://www.tripadvisor.in/Search?q=Jaipur+Grand+Solo+Hotel"
+      },
+      "coordinates": {
+        "lat": 26.9124,
+        "lng": 75.7873
+      }
+    },
+    {
+      "name": "Goa Grand Solo Hotel",
+      "city": "Goa",
+      "image": "https://images.pexels.com/photos/338504/pexels-photo-338504.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "overall_score": 92,
+      "price_range": 1800,
+      "features": [
+        {
+          "name": "Cleanliness",
+          "score": 90
+        },
+        {
+          "name": "Location",
+          "score": 72
+        },
+        {
+          "name": "Service",
+          "score": 97
+        },
+        {
+          "name": "Value",
+          "score": 80
+        },
+        {
+          "name": "Facilities",
+          "score": 97
+        }
+      ],
+      "badges": [
+        "Mid-Range",
+        "Great Location"
+      ],
+      "platform_ratings": {
+        "Google": 4.9,
+        "Booking": 4.6,
+        "MakeMyTrip": 4.9,
+        "TripAdvisor": 4.4
+      },
+      "booking_links": {
+        "Google": "https://www.google.com/travel/hotels/entity?q=Goa+Grand+Solo+Hotel",
+        "Booking": "https://www.booking.com/searchresults.html?ss=Goa+Grand+Solo+Hotel",
+        "MakeMyTrip": "https://www.makemytrip.com/hotels/hotel-listing/?checkin=&checkout=&city=CTGOI&country=IN&searchText=Goa+Grand+Solo+Hotel",
+        "TripAdvisor": "https://www.tripadvisor.in/Search?q=Goa+Grand+Solo+Hotel"
+      },
+      "coordinates": {
+        "lat": 15.2993,
+        "lng": 74.1240
+      }
+    },
+    {
+      "name": "Delhi Grand Solo Hotel",
+      "city": "Delhi",
+      "image": "https://images.pexels.com/photos/164595/pexels-photo-164595.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "overall_score": 87,
+      "price_range": 1500,
+      "features": [
+        {
+          "name": "Cleanliness",
+          "score": 90
+        },
+        {
+          "name": "Location",
+          "score": 91
+        },
+        {
+          "name": "Service",
+          "score": 99
+        },
+        {
+          "name": "Value",
+          "score": 79
+        },
+        {
+          "name": "Facilities",
+          "score": 77
+        }
+      ],
+      "badges": [
+        "Mid-Range",
+        "Great Location"
+      ],
+      "platform_ratings": {
+        "Google": 5.0,
+        "Booking": 4.7,
+        "MakeMyTrip": 4.6,
+        "TripAdvisor": 3.9
+      },
+      "booking_links": {
+        "Google": "https://www.google.com/travel/hotels/entity?q=Delhi+Grand+Solo+Hotel",
+        "Booking": "https://www.booking.com/searchresults.html?ss=Delhi+Grand+Solo+Hotel",
+        "MakeMyTrip": "https://www.makemytrip.com/hotels/hotel-listing/?checkin=&checkout=&city=CTDEL&country=IN&searchText=Delhi+Grand+Solo+Hotel",
+        "TripAdvisor": "https://www.tripadvisor.in/Search?q=Delhi+Grand+Solo+Hotel"
+      },
+      "coordinates": {
+        "lat": 28.704059,
+        "lng": 77.102493
+      }
+    },
+    {
+      "name": "Bangalore Grand Solo Hotel",
+      "city": "Bangalore",
+      "image": "https://images.pexels.com/photos/271624/pexels-photo-271624.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "overall_score": 80,
+      "price_range": 1400,
+      "features": [
+        {
+          "name": "Cleanliness",
+          "score": 71
+        },
+        {
+          "name": "Location",
+          "score": 80
+        },
+        {
+          "name": "Service",
+          "score": 95
+        },
+        {
+          "name": "Value",
+          "score": 71
+        },
+        {
+          "name": "Facilities",
+          "score": 79
+        }
+      ],
+      "badges": [
+        "Mid-Range",
+        "Top Breakfast"
+      ],
+      "platform_ratings": {
+        "Google": 4.3,
+        "Booking": 4.1,
+        "MakeMyTrip": 4.3,
+        "TripAdvisor": 4.6
+      },
+      "booking_links": {
+        "Google": "https://www.google.com/travel/hotels/entity?q=Bangalore+Grand+Solo+Hotel",
+        "Booking": "https://www.booking.com/searchresults.html?ss=Bangalore+Grand+Solo+Hotel",
+        "MakeMyTrip": "https://www.makemytrip.com/hotels/hotel-listing/?checkin=&checkout=&city=CTBLR&country=IN&searchText=Bangalore+Grand+Solo+Hotel",
+        "TripAdvisor": "https://www.tripadvisor.in/Search?q=Bangalore+Grand+Solo+Hotel"
+      },
+      "coordinates": {
+        "lat": 12.971599,
+        "lng": 77.594566
+      }
+    },
+    {
+      "name": "Chennai Grand Solo Hotel",
+      "city": "Chennai",
+      "image": "https://images.pexels.com/photos/1134176/pexels-photo-1134176.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "overall_score": 85,
+      "price_range": 1300,
+      "features": [
+        {
+          "name": "Cleanliness",
+          "score": 82
+        },
+        {
+          "name": "Location",
+          "score": 88
+        },
+        {
+          "name": "Service",
+          "score": 85
+        },
+        {
+          "name": "Value",
+          "score": 90
+        },
+        {
+          "name": "Facilities",
+          "score": 80
+        }
+      ],
+      "badges": [
+        "Mid-Range",
+        "Best Value"
+      ],
+      "platform_ratings": {
+        "Google": 4.4,
+        "Booking": 4.3,
+        "MakeMyTrip": 4.2,
+        "TripAdvisor": 4.3
+      },
+      "booking_links": {
+        "Google": "https://www.google.com/travel/hotels/entity?q=Chennai+Grand+Solo+Hotel",
+        "Booking": "https://www.booking.com/searchresults.html?ss=Chennai+Grand+Solo+Hotel",
+        "MakeMyTrip": "https://www.makemytrip.com/hotels/hotel-listing/?checkin=&checkout=&city=CTMAA&country=IN&searchText=Chennai+Grand+Solo+Hotel",
+        "TripAdvisor": "https://www.tripadvisor.in/Search?q=Chennai+Grand+Solo+Hotel"
+      },
+      "coordinates": {
+        "lat": 13.082680,
+        "lng": 80.270721
+      }
+    },
+    {
+      "name": "Mumbai Grand Solo Hotel",
+      "city": "Mumbai",
+      "image": "https://images.pexels.com/photos/261102/pexels-photo-261102.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "overall_score": 88,
+      "price_range": 1600,
+      "features": [
+        {
+          "name": "Cleanliness",
+          "score": 85
+        },
+        {
+          "name": "Location",
+          "score": 92
+        },
+        {
+          "name": "Service",
+          "score": 88
+        },
+        {
+          "name": "Value",
+          "score": 85
+        },
+        {
+          "name": "Facilities",
+          "score": 90
+        }
+      ],
+      "badges": [
+        "Mid-Range",
+        "Great Location"
+      ],
+      "platform_ratings": {
+        "Google": 4.5,
+        "Booking": 4.4,
+        "MakeMyTrip": 4.3,
+        "TripAdvisor": 4.4
+      },
+      "booking_links": {
+        "Google": "https://www.google.com/travel/hotels/entity?q=Mumbai+Grand+Solo+Hotel",
+        "Booking": "https://www.booking.com/searchresults.html?ss=Mumbai+Grand+Solo+Hotel",
+        "MakeMyTrip": "https://www.makemytrip.com/hotels/hotel-listing/?checkin=&checkout=&city=CTBOM&country=IN&searchText=Mumbai+Grand+Solo+Hotel",
+        "TripAdvisor": "https://www.tripadvisor.in/Search?q=Mumbai+Grand+Solo+Hotel"
+      },
+      "coordinates": {
+        "lat": 19.076090,
+        "lng": 72.877426
+      }
+    }
+  ],
+  "Business": [
+    {
+      "name": "Jaipur Grand Business Hotel",
+      "city": "Jaipur",
+      "image": "https://images.pexels.com/photos/258154/pexels-photo-258154.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "overall_score": 95,
+      "price_range": 3500,
+      "features": [
+        {
+          "name": "Cleanliness",
+          "score": 99
+        },
+        {
+          "name": "Location",
+          "score": 88
+        },
+        {
+          "name": "Service",
+          "score": 74
+        },
+        {
+          "name": "Value",
+          "score": 77
+        },
+        {
+          "name": "Facilities",
+          "score": 84
+        }
+      ],
+      "badges": [
+        "Premium",
+        "Great Location"
+      ],
+      "platform_ratings": {
+        "Google": 4.1,
+        "Booking": 3.8,
+        "MakeMyTrip": 4.8,
+        "TripAdvisor": 4.9
+      },
+      "booking_links": {
+        "Google": "https://www.google.com/travel/hotels/entity?q=Jaipur+Grand+Business+Hotel",
+        "Booking": "https://www.booking.com/searchresults.html?ss=Jaipur+Grand+Business+Hotel",
+        "MakeMyTrip": "https://www.makemytrip.com/hotels/hotel-listing/?checkin=&checkout=&city=CTJAI&country=IN&searchText=Jaipur+Grand+Business+Hotel",
+        "TripAdvisor": "https://www.tripadvisor.in/Search?q=Jaipur+Grand+Business+Hotel"
+      },
+      "coordinates": {
+        "lat": 26.9124,
+        "lng": 75.7873
+      }
+    },
+    {
+      "name": "Bangalore Grand Business Hotel",
+      "city": "Bangalore",
+      "image": "https://images.pexels.com/photos/271624/pexels-photo-271624.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "overall_score": 94,
+      "price_range": 3200,
+      "features": [
+        {
+          "name": "Cleanliness",
+          "score": 81
+        },
+        {
+          "name": "Location",
+          "score": 88
+        },
+        {
+          "name": "Service",
+          "score": 79
+        },
+        {
+          "name": "Value",
+          "score": 90
+        },
+        {
+          "name": "Facilities",
+          "score": 83
+        }
+      ],
+      "badges": [
+        "Premium",
+        "Great Location"
+      ],
+      "platform_ratings": {
+        "Google": 4.8,
+        "Booking": 4.0,
+        "MakeMyTrip": 4.3,
+        "TripAdvisor": 4.4
+      },
+      "booking_links": {
+        "Google": "https://www.google.com/travel/hotels/entity?q=Bangalore+Grand+Business+Hotel",
+        "Booking": "https://www.booking.com/searchresults.html?ss=Bangalore+Grand+Business+Hotel",
+        "MakeMyTrip": "https://www.makemytrip.com/hotels/hotel-listing/?checkin=&checkout=&city=CTBLR&country=IN&searchText=Bangalore+Grand+Business+Hotel",
+        "TripAdvisor": "https://www.tripadvisor.in/Search?q=Bangalore+Grand+Business+Hotel"
+      },
+      "coordinates": {
+        "lat": 12.971599,
+        "lng": 77.594566
+      }
+    },
+    {
+      "name": "Chennai Grand Business Hotel",
+      "city": "Chennai",
+      "image": "https://images.pexels.com/photos/1134176/pexels-photo-1134176.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "overall_score": 98,
+      "price_range": 3800,
+      "features": [
+        {
+          "name": "Cleanliness",
+          "score": 79
+        },
+        {
+          "name": "Location",
+          "score": 92
+        },
+        {
+          "name": "Service",
+          "score": 79
+        },
+        {
+          "name": "Value",
+          "score": 70
+        },
+        {
+          "name": "Facilities",
+          "score": 96
+        }
+      ],
+      "badges": [
+        "Premium",
+        "Great Location"
+      ],
+      "platform_ratings": {
+        "Google": 3.8,
+        "Booking": 4.8,
+        "MakeMyTrip": 4.7,
+        "TripAdvisor": 5.0
+      },
+      "booking_links": {
+        "Google": "https://www.google.com/travel/hotels/entity?q=Chennai+Grand+Business+Hotel",
+        "Booking": "https://www.booking.com/searchresults.html?ss=Chennai+Grand+Business+Hotel",
+        "MakeMyTrip": "https://www.makemytrip.com/hotels/hotel-listing/?checkin=&checkout=&city=CTMAA&country=IN&searchText=Chennai+Grand+Business+Hotel",
+        "TripAdvisor": "https://www.tripadvisor.in/Search?q=Chennai+Grand+Business+Hotel"
+      },
+      "coordinates": {
+        "lat": 13.082680,
+        "lng": 80.270721
+      }
+    },
+    {
+      "name": "Mumbai Grand Business Hotel",
+      "city": "Mumbai",
+      "image": "https://images.pexels.com/photos/261102/pexels-photo-261102.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "overall_score": 89,
+      "price_range": 4200,
+      "features": [
+        {
+          "name": "Cleanliness",
+          "score": 94
+        },
+        {
+          "name": "Location",
+          "score": 95
+        },
+        {
+          "name": "Service",
+          "score": 77
+        },
+        {
+          "name": "Value",
+          "score": 89
+        },
+        {
+          "name": "Facilities",
+          "score": 95
+        }
+      ],
+      "badges": [
+        "Luxury",
+        "Luxury Pick"
+      ],
+      "platform_ratings": {
+        "Google": 4.6,
+        "Booking": 4.5,
+        "MakeMyTrip": 4.6,
+        "TripAdvisor": 4.7
+      },
+      "booking_links": {
+        "Google": "https://www.google.com/travel/hotels/entity?q=Mumbai+Grand+Business+Hotel",
+        "Booking": "https://www.booking.com/searchresults.html?ss=Mumbai+Grand+Business+Hotel",
+        "MakeMyTrip": "https://www.makemytrip.com/hotels/hotel-listing/?checkin=&checkout=&city=CTBOM&country=IN&searchText=Mumbai+Grand+Business+Hotel",
+        "TripAdvisor": "https://www.tripadvisor.in/Search?q=Mumbai+Grand+Business+Hotel"
+      },
+      "coordinates": {
+        "lat": 19.076090,
+        "lng": 72.877426
+      }
+    },
+    {
+      "name": "Delhi Grand Business Center",
+      "city": "Delhi",
+      "image": "https://images.pexels.com/photos/164595/pexels-photo-164595.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "overall_score": 91,
+      "price_range": 3600,
+      "features": [
+        {
+          "name": "Cleanliness",
+          "score": 88
+        },
+        {
+          "name": "Location",
+          "score": 95
+        },
+        {
+          "name": "Service",
+          "score": 92
+        },
+        {
+          "name": "Value",
+          "score": 85
+        },
+        {
+          "name": "Facilities",
+          "score": 95
+        }
+      ],
+      "badges": [
+        "Premium",
+        "Business Center"
+      ],
+      "platform_ratings": {
+        "Google": 4.5,
+        "Booking": 4.6,
+        "MakeMyTrip": 4.4,
+        "TripAdvisor": 4.3
+      },
+      "booking_links": {
+        "Google": "https://www.google.com/travel/hotels/entity?q=Delhi+Grand+Business+Center",
+        "Booking": "https://www.booking.com/searchresults.html?ss=Delhi+Grand+Business+Center",
+        "MakeMyTrip": "https://www.makemytrip.com/hotels/hotel-listing/?checkin=&checkout=&city=CTDEL&country=IN&searchText=Delhi+Grand+Business+Center",
+        "TripAdvisor": "https://www.tripadvisor.in/Search?q=Delhi+Grand+Business+Center"
+      },
+      "coordinates": {
+        "lat": 28.6139,
+        "lng": 77.2090
+      }
+    }
+  ],
+  "Luxury": [
+    {
+      "name": "Kolkata Grand Luxury Hotel",
+      "city": "Kolkata",
+      "image": "https://images.pexels.com/photos/258154/pexels-photo-258154.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "overall_score": 94,
+      "price_range": 5200,
+      "features": [
+        {
+          "name": "Cleanliness",
+          "score": 71
+        },
+        {
+          "name": "Location",
+          "score": 88
+        },
+        {
+          "name": "Service",
+          "score": 81
+        },
+        {
+          "name": "Value",
+          "score": 93
+        },
+        {
+          "name": "Facilities",
+          "score": 74
+        }
+      ],
+      "badges": [
+        "Luxury",
+        "Premium Service"
+      ],
+      "platform_ratings": {
+        "Google": 4.2,
+        "Booking": 4.3,
+        "MakeMyTrip": 4.0,
+        "TripAdvisor": 4.7
+      },
+      "booking_links": {
+        "Google": "https://www.google.com/travel/hotels/entity?q=Kolkata+Grand+Luxury+Hotel",
+        "Booking": "https://www.booking.com/searchresults.html?ss=Kolkata+Grand+Luxury+Hotel",
+        "MakeMyTrip": "https://www.makemytrip.com/hotels/hotel-listing/?checkin=&checkout=&city=CTKOK&country=IN&searchText=Kolkata+Grand+Luxury+Hotel",
+        "TripAdvisor": "https://www.tripadvisor.in/Search?q=Kolkata+Grand+Luxury+Hotel"
+      },
+      "coordinates": {
+        "lat": 22.572646,
+        "lng": 88.363895
+      }
+    },
+    {
+      "name": "Delhi Grand Luxury Hotel",
+      "city": "Delhi",
+      "image": "https://images.pexels.com/photos/164595/pexels-photo-164595.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "overall_score": 96,
+      "price_range": 6800,
+      "features": [
+        {
+          "name": "Cleanliness",
+          "score": 99
+        },
+        {
+          "name": "Location",
+          "score": 78
+        },
+        {
+          "name": "Service",
+          "score": 96
+        },
+        {
+          "name": "Value",
+          "score": 75
+        },
+        {
+          "name": "Facilities",
+          "score": 78
+        }
+      ],
+      "badges": [
+        "Ultra Luxury",
+        "Premium Service"
+      ],
+      "platform_ratings": {
+        "Google": 4.7,
+        "Booking": 4.2,
+        "MakeMyTrip": 3.9,
+        "TripAdvisor": 5.0
+      },
+      "booking_links": {
+        "Google": "https://www.google.com/travel/hotels/entity?q=Delhi+Grand+Luxury+Hotel",
+        "Booking": "https://www.booking.com/searchresults.html?ss=Delhi+Grand+Luxury+Hotel",
+        "MakeMyTrip": "https://www.makemytrip.com/hotels/hotel-listing/?checkin=&checkout=&city=CTDEL&country=IN&searchText=Delhi+Grand+Luxury+Hotel",
+        "TripAdvisor": "https://www.tripadvisor.in/Search?q=Delhi+Grand+Luxury+Hotel"
+      },
+      "coordinates": {
+        "lat": 28.704059,
+        "lng": 77.102493
+      }
+    },
+    {
+      "name": "Chennai Grand Luxury Hotel",
+      "city": "Chennai",
+      "image": "https://images.pexels.com/photos/1134176/pexels-photo-1134176.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "overall_score": 92,
+      "price_range": 4800,
+      "features": [
+        {
+          "name": "Cleanliness",
+          "score": 97
+        },
+        {
+          "name": "Location",
+          "score": 95
+        },
+        {
+          "name": "Service",
+          "score": 87
+        },
+        {
+          "name": "Value",
+          "score": 81
+        },
+        {
+          "name": "Facilities",
+          "score": 72
+        }
+      ],
+      "badges": [
+        "Luxury",
+        "Best Value"
+      ],
+      "platform_ratings": {
+        "Google": 4.1,
+        "Booking": 3.9,
+        "MakeMyTrip": 4.2,
+        "TripAdvisor": 4.7
+      },
+      "booking_links": {
+        "Google": "https://www.google.com/travel/hotels/entity?q=Chennai+Grand+Luxury+Hotel",
+        "Booking": "https://www.booking.com/searchresults.html?ss=Chennai+Grand+Luxury+Hotel",
+        "MakeMyTrip": "https://www.makemytrip.com/hotels/hotel-listing/?checkin=&checkout=&city=CTMAA&country=IN&searchText=Chennai+Grand+Luxury+Hotel",
+        "TripAdvisor": "https://www.tripadvisor.in/Search?q=Chennai+Grand+Luxury+Hotel"
+      },
+      "coordinates": {
+        "lat": 13.082680,
+        "lng": 80.270721
+      }
+    },
+    {
+      "name": "Goa Grand Luxury Hotel",
+      "city": "Goa",
+      "image": "https://images.pexels.com/photos/338504/pexels-photo-338504.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "overall_score": 91,
+      "price_range": 5800,
+      "features": [
+        {
+          "name": "Cleanliness",
+          "score": 73
+        },
+        {
+          "name": "Location",
+          "score": 91
+        },
+        {
+          "name": "Service",
+          "score": 77
+        },
+        {
+          "name": "Value",
+          "score": 85
+        },
+        {
+          "name": "Facilities",
+          "score": 70
+        }
+      ],
+      "badges": [
+        "Luxury",
+        "Beach Resort"
+      ],
+      "platform_ratings": {
+        "Google": 4.9,
+        "Booking": 4.1,
+        "MakeMyTrip": 3.9,
+        "TripAdvisor": 4.8
+      },
+      "booking_links": {
+        "Google": "https://www.google.com/travel/hotels/entity?q=Goa+Grand+Luxury+Hotel",
+        "Booking": "https://www.booking.com/searchresults.html?ss=Goa+Grand+Luxury+Hotel",
+        "MakeMyTrip": "https://www.makemytrip.com/hotels/hotel-listing/?checkin=&checkout=&city=CTGOI&country=IN&searchText=Goa+Grand+Luxury+Hotel",
+        "TripAdvisor": "https://www.tripadvisor.in/Search?q=Goa+Grand+Luxury+Hotel"
+      },
+      "coordinates": {
+        "lat": 15.2993,
+        "lng": 74.1240
+      }
+    },
+    {
+      "name": "Mumbai Grand Luxury Resort",
+      "city": "Mumbai",
+      "image": "https://images.pexels.com/photos/261102/pexels-photo-261102.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "overall_score": 97,
+      "price_range": 7200,
+      "features": [
+        {
+          "name": "Cleanliness",
+          "score": 98
+        },
+        {
+          "name": "Location",
+          "score": 96
+        },
+        {
+          "name": "Service",
+          "score": 98
+        },
+        {
+          "name": "Value",
+          "score": 88
+        },
+        {
+          "name": "Facilities",
+          "score": 99
+        }
+      ],
+      "badges": [
+        "Ultra Luxury",
+        "Premium Service"
+      ],
+      "platform_ratings": {
+        "Google": 4.8,
+        "Booking": 4.9,
+        "MakeMyTrip": 4.7,
+        "TripAdvisor": 4.9
+      },
+      "booking_links": {
+        "Google": "https://www.google.com/travel/hotels/entity?q=Mumbai+Grand+Luxury+Resort",
+        "Booking": "https://www.booking.com/searchresults.html?ss=Mumbai+Grand+Luxury+Resort",
+        "MakeMyTrip": "https://www.makemytrip.com/hotels/hotel-listing/?checkin=&checkout=&city=CTBOM&country=IN&searchText=Mumbai+Grand+Luxury+Resort",
+        "TripAdvisor": "https://www.tripadvisor.in/Search?q=Mumbai+Grand+Luxury+Resort"
+      },
+      "coordinates": {
+        "lat": 19.076090,
+        "lng": 72.877426
+      }
+    }
+  ]
+}

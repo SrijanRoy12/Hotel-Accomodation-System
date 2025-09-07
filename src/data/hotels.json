@@ -1,0 +1,924 @@
+[
+  {
+    "id": 1,
+    "name": "Harbor Suites",
+    "city": "Delhi",
+    "coordinates": {
+      "lat": 28.588225,
+      "lng": 77.195148
+    },
+    "image": "https://source.unsplash.com/800x600/?hotel,delhi",
+    "platformRatings": {
+      "google": 4.2,
+      "booking": 4.0,
+      "tripadvisor": 4.1
+    },
+    "reviews": [
+      "Family-friendly facilities and safe surroundings.",
+      "Wi-Fi was fast and reliable.",
+      "Rooms were spotless and well-maintained.",
+      "Noise levels were fine, but walls felt thin.",
+      "Room size is compact but manageable."
+    ],
+    "featureScores": {
+      "cleanliness": 7.7,
+      "location": 9.0,
+      "price": 8.7,
+      "amenities": 9.4,
+      "customer_service": 7.7
+    }
+  },
+  {
+    "id": 2,
+    "name": "Royal Crest Residency",
+    "city": "Delhi",
+    "coordinates": {
+      "lat": 28.598512,
+      "lng": 77.225224
+    },
+    "image": "https://source.unsplash.com/800x600/?hotel,delhi",
+    "platformRatings": {
+      "google": 3.8,
+      "booking": 3.9,
+      "tripadvisor": 3.8
+    },
+    "reviews": [
+      "Breakfast spread was delicious and fresh.",
+      "Parking is limited but works if you arrive early.",
+      "Room size is compact but manageable.",
+      "Staff was extremely courteous and helpful.",
+      "Great value for money, highly recommended.",
+      "Breakfast could have had more options.",
+      "Breakfast could have had more options.",
+      "Wi-Fi was fast and reliable."
+    ],
+    "featureScores": {
+      "cleanliness": 7.4,
+      "location": 8.2,
+      "price": 7.8,
+      "amenities": 7.9,
+      "customer_service": 8.1
+    }
+  },
+  {
+    "id": 3,
+    "name": "Harbor Heights",
+    "city": "Delhi",
+    "coordinates": {
+      "lat": 28.595665,
+      "lng": 77.200088
+    },
+    "image": "https://source.unsplash.com/800x600/?hotel,delhi",
+    "platformRatings": {
+      "google": 4.3,
+      "booking": 4.1,
+      "tripadvisor": 4.2
+    },
+    "reviews": [
+      "Wi-Fi disconnected a couple of times.",
+      "Amenities like pool and gym were top-notch.",
+      "Breakfast could have had more options.",
+      "Rooms were spotless and well-maintained.",
+      "Housekeeping could be a bit faster.",
+      "Great value for money, highly recommended.",
+      "Wi-Fi disconnected a couple of times."
+    ],
+    "featureScores": {
+      "cleanliness": 8.7,
+      "location": 8.9,
+      "price": 8.7,
+      "amenities": 7.2,
+      "customer_service": 8.9
+    }
+  },
+  {
+    "id": 4,
+    "name": "Marigold Heights",
+    "city": "Delhi",
+    "coordinates": {
+      "lat": 28.598366,
+      "lng": 77.208953
+    },
+    "image": "https://source.unsplash.com/800x600/?hotel,delhi",
+    "platformRatings": {
+      "google": 4.2,
+      "booking": 4.3,
+      "tripadvisor": 4.1
+    },
+    "reviews": [
+      "Location is perfect with easy access to attractions.",
+      "Staff was extremely courteous and helpful.",
+      "Breakfast could have had more options.",
+      "Location is perfect with easy access to attractions.",
+      "Housekeeping could be a bit faster.",
+      "Check-in was quick and hassle-free.",
+      "Wi-Fi was fast and reliable.",
+      "Family-friendly facilities and safe surroundings."
+    ],
+    "featureScores": {
+      "cleanliness": 9.2,
+      "location": 8.8,
+      "price": 7.2,
+      "amenities": 7.4,
+      "customer_service": 9.1
+    }
+  },
+  {
+    "id": 5,
+    "name": "Crescent Inn",
+    "city": "Delhi",
+    "coordinates": {
+      "lat": 28.623645,
+      "lng": 77.185266
+    },
+    "image": "https://source.unsplash.com/800x600/?hotel,delhi",
+    "platformRatings": {
+      "google": 4.2,
+      "booking": 4.1,
+      "tripadvisor": 4.4
+    },
+    "reviews": [
+      "Hot water took time to come.",
+      "Staff was extremely courteous and helpful.",
+      "Room size is compact but manageable.",
+      "Parking is limited but works if you arrive early.",
+      "Location is perfect with easy access to attractions.",
+      "Location is perfect with easy access to attractions.",
+      "Family-friendly facilities and safe surroundings."
+    ],
+    "featureScores": {
+      "cleanliness": 9.2,
+      "location": 9.1,
+      "price": 9.0,
+      "amenities": 7.9,
+      "customer_service": 8.1
+    }
+  },
+  {
+    "id": 6,
+    "name": "Vista Inn",
+    "city": "Delhi",
+    "coordinates": {
+      "lat": 28.619248,
+      "lng": 77.208298
+    },
+    "image": "https://source.unsplash.com/800x600/?hotel,delhi",
+    "platformRatings": {
+      "google": 4.1,
+      "booking": 4.3,
+      "tripadvisor": 4.1
+    },
+    "reviews": [
+      "Parking is limited but works if you arrive early.",
+      "Noise levels were fine, but walls felt thin.",
+      "Parking is limited but works if you arrive early.",
+      "Family-friendly facilities and safe surroundings.",
+      "Housekeeping could be a bit faster.",
+      "Wi-Fi disconnected a couple of times.",
+      "Noise levels were fine, but walls felt thin.",
+      "Housekeeping could be a bit faster."
+    ],
+    "featureScores": {
+      "cleanliness": 7.5,
+      "location": 8.2,
+      "price": 9.6,
+      "amenities": 9.2,
+      "customer_service": 8.0
+    }
+  },
+  {
+    "id": 7,
+    "name": "Pebble Heights",
+    "city": "Mumbai",
+    "coordinates": {
+      "lat": 19.072654,
+      "lng": 72.878705
+    },
+    "image": "https://source.unsplash.com/800x600/?hotel,mumbai",
+    "platformRatings": {
+      "google": 3.8,
+      "booking": 3.7,
+      "tripadvisor": 4.0
+    },
+    "reviews": [
+      "Rooms were spotless and well-maintained.",
+      "Breakfast could have had more options.",
+      "Breakfast spread was delicious and fresh.",
+      "Noise levels were fine, but walls felt thin.",
+      "Beautiful interiors and comfortable beds.",
+      "Great value for money, highly recommended."
+    ],
+    "featureScores": {
+      "cleanliness": 7.5,
+      "location": 8.0,
+      "price": 7.1,
+      "amenities": 8.6,
+      "customer_service": 8.0
+    }
+  },
+  {
+    "id": 8,
+    "name": "Olive Haven",
+    "city": "Mumbai",
+    "coordinates": {
+      "lat": 19.092621,
+      "lng": 72.859993
+    },
+    "image": "https://source.unsplash.com/800x600/?hotel,mumbai",
+    "platformRatings": {
+      "google": 4.1,
+      "booking": 4.3,
+      "tripadvisor": 3.9
+    },
+    "reviews": [
+      "Breakfast could have had more options.",
+      "Great value for money, highly recommended.",
+      "Location is perfect with easy access to attractions.",
+      "Breakfast spread was delicious and fresh.",
+      "Staff was extremely courteous and helpful.",
+      "Family-friendly facilities and safe surroundings.",
+      "Family-friendly facilities and safe surroundings.",
+      "Breakfast could have had more options."
+    ],
+    "featureScores": {
+      "cleanliness": 7.4,
+      "location": 8.4,
+      "price": 7.4,
+      "amenities": 8.3,
+      "customer_service": 9.1
+    }
+  },
+  {
+    "id": 9,
+    "name": "Vista Retreat",
+    "city": "Mumbai",
+    "coordinates": {
+      "lat": 19.057963,
+      "lng": 72.876879
+    },
+    "image": "https://source.unsplash.com/800x600/?hotel,mumbai",
+    "platformRatings": {
+      "google": 3.9,
+      "booking": 4.2,
+      "tripadvisor": 4.0
+    },
+    "reviews": [
+      "Parking is limited but works if you arrive early.",
+      "Housekeeping could be a bit faster.",
+      "Breakfast spread was delicious and fresh.",
+      "Rooms were spotless and well-maintained.",
+      "Family-friendly facilities and safe surroundings.",
+      "Amenities like pool and gym were top-notch.",
+      "Beautiful interiors and comfortable beds.",
+      "Family-friendly facilities and safe surroundings."
+    ],
+    "featureScores": {
+      "cleanliness": 7.7,
+      "location": 8.4,
+      "price": 6.4,
+      "amenities": 8.0,
+      "customer_service": 9.7
+    }
+  },
+  {
+    "id": 10,
+    "name": "Serene Inn",
+    "city": "Mumbai",
+    "coordinates": {
+      "lat": 19.100907,
+      "lng": 72.853685
+    },
+    "image": "https://source.unsplash.com/800x600/?hotel,mumbai",
+    "platformRatings": {
+      "google": 4.1,
+      "booking": 3.9,
+      "tripadvisor": 4.0
+    },
+    "reviews": [
+      "Beautiful interiors and comfortable beds.",
+      "Amenities like pool and gym were top-notch.",
+      "Hot water took time to come.",
+      "Room size is compact but manageable.",
+      "Check-in was quick and hassle-free."
+    ],
+    "featureScores": {
+      "cleanliness": 7.6,
+      "location": 8.8,
+      "price": 8.1,
+      "amenities": 7.6,
+      "customer_service": 7.8
+    }
+  },
+  {
+    "id": 11,
+    "name": "Amber Hotel",
+    "city": "Mumbai",
+    "coordinates": {
+      "lat": 19.073688,
+      "lng": 72.902238
+    },
+    "image": "https://source.unsplash.com/800x600/?hotel,mumbai",
+    "platformRatings": {
+      "google": 4.1,
+      "booking": 4.1,
+      "tripadvisor": 4.0
+    },
+    "reviews": [
+      "Noise levels were fine, but walls felt thin.",
+      "Location is perfect with easy access to attractions.",
+      "Family-friendly facilities and safe surroundings.",
+      "Parking is limited but works if you arrive early.",
+      "Wi-Fi disconnected a couple of times.",
+      "Family-friendly facilities and safe surroundings.",
+      "Staff was extremely courteous and helpful."
+    ],
+    "featureScores": {
+      "cleanliness": 9.4,
+      "location": 7.5,
+      "price": 7.9,
+      "amenities": 8.5,
+      "customer_service": 7.7
+    }
+  },
+  {
+    "id": 12,
+    "name": "Marigold Residency",
+    "city": "Goa",
+    "coordinates": {
+      "lat": 15.286568,
+      "lng": 74.14584
+    },
+    "image": "https://source.unsplash.com/800x600/?hotel,goa",
+    "platformRatings": {
+      "google": 4.1,
+      "booking": 4.2,
+      "tripadvisor": 4.0
+    },
+    "reviews": [
+      "Air conditioning was a bit noisy at night.",
+      "Check-in was quick and hassle-free.",
+      "Breakfast could have had more options.",
+      "Location is perfect with easy access to attractions.",
+      "Breakfast spread was delicious and fresh.",
+      "Wi-Fi was fast and reliable.",
+      "Check-in was quick and hassle-free."
+    ],
+    "featureScores": {
+      "cleanliness": 8.9,
+      "location": 7.9,
+      "price": 7.6,
+      "amenities": 7.7,
+      "customer_service": 8.3
+    }
+  },
+  {
+    "id": 13,
+    "name": "Cedar Inn",
+    "city": "Goa",
+    "coordinates": {
+      "lat": 15.27832,
+      "lng": 74.148941
+    },
+    "image": "https://source.unsplash.com/800x600/?hotel,goa",
+    "platformRatings": {
+      "google": 4.0,
+      "booking": 3.8,
+      "tripadvisor": 4.0
+    },
+    "reviews": [
+      "Noise levels were fine, but walls felt thin.",
+      "Breakfast could have had more options.",
+      "Family-friendly facilities and safe surroundings.",
+      "Housekeeping could be a bit faster.",
+      "Hot water took time to come."
+    ],
+    "featureScores": {
+      "cleanliness": 8.8,
+      "location": 7.9,
+      "price": 6.9,
+      "amenities": 8.1,
+      "customer_service": 8.7
+    }
+  },
+  {
+    "id": 14,
+    "name": "Crescent Residency",
+    "city": "Goa",
+    "coordinates": {
+      "lat": 15.325041,
+      "lng": 74.141416
+    },
+    "image": "https://source.unsplash.com/800x600/?hotel,goa",
+    "platformRatings": {
+      "google": 4.5,
+      "booking": 4.5,
+      "tripadvisor": 4.5
+    },
+    "reviews": [
+      "Staff was extremely courteous and helpful.",
+      "Rooms were spotless and well-maintained.",
+      "Noise levels were fine, but walls felt thin.",
+      "Wi-Fi was fast and reliable.",
+      "Great value for money, highly recommended.",
+      "Great value for money, highly recommended.",
+      "Breakfast spread was delicious and fresh."
+    ],
+    "featureScores": {
+      "cleanliness": 9.2,
+      "location": 7.7,
+      "price": 8.9,
+      "amenities": 8.0,
+      "customer_service": 9.5
+    }
+  },
+  {
+    "id": 15,
+    "name": "Crescent Suites",
+    "city": "Goa",
+    "coordinates": {
+      "lat": 15.324537,
+      "lng": 74.111622
+    },
+    "image": "https://source.unsplash.com/800x600/?hotel,goa",
+    "platformRatings": {
+      "google": 4.3,
+      "booking": 4.7,
+      "tripadvisor": 4.4
+    },
+    "reviews": [
+      "Beautiful interiors and comfortable beds.",
+      "Amenities like pool and gym were top-notch.",
+      "Family-friendly facilities and safe surroundings.",
+      "Beautiful interiors and comfortable beds.",
+      "Rooms were spotless and well-maintained.",
+      "Breakfast could have had more options.",
+      "Family-friendly facilities and safe surroundings."
+    ],
+    "featureScores": {
+      "cleanliness": 8.7,
+      "location": 8.5,
+      "price": 9.5,
+      "amenities": 8.5,
+      "customer_service": 9.6
+    }
+  },
+  {
+    "id": 16,
+    "name": "Pebble Retreat",
+    "city": "Goa",
+    "coordinates": {
+      "lat": 15.291961,
+      "lng": 74.099901
+    },
+    "image": "https://source.unsplash.com/800x600/?hotel,goa",
+    "platformRatings": {
+      "google": 4.2,
+      "booking": 4.2,
+      "tripadvisor": 4.3
+    },
+    "reviews": [
+      "Parking is limited but works if you arrive early.",
+      "Check-in was quick and hassle-free.",
+      "Housekeeping could be a bit faster.",
+      "Noise levels were fine, but walls felt thin.",
+      "Breakfast spread was delicious and fresh.",
+      "Rooms were spotless and well-maintained.",
+      "Great value for money, highly recommended.",
+      "Beautiful interiors and comfortable beds."
+    ],
+    "featureScores": {
+      "cleanliness": 8.7,
+      "location": 8.3,
+      "price": 7.7,
+      "amenities": 9.4,
+      "customer_service": 9.1
+    }
+  },
+  {
+    "id": 17,
+    "name": "Sunset Heights",
+    "city": "Bangalore",
+    "coordinates": {
+      "lat": 12.969707,
+      "lng": 77.591392
+    },
+    "image": "https://source.unsplash.com/800x600/?hotel,bangalore",
+    "platformRatings": {
+      "google": 4.0,
+      "booking": 4.2,
+      "tripadvisor": 4.2
+    },
+    "reviews": [
+      "Great value for money, highly recommended.",
+      "Noise levels were fine, but walls felt thin.",
+      "Noise levels were fine, but walls felt thin.",
+      "Great value for money, highly recommended.",
+      "Wi-Fi disconnected a couple of times.",
+      "Breakfast could have had more options.",
+      "Beautiful interiors and comfortable beds."
+    ],
+    "featureScores": {
+      "cleanliness": 7.7,
+      "location": 8.5,
+      "price": 8.7,
+      "amenities": 9.1,
+      "customer_service": 7.9
+    }
+  },
+  {
+    "id": 18,
+    "name": "Palm Grove Palace",
+    "city": "Bangalore",
+    "coordinates": {
+      "lat": 12.971296,
+      "lng": 77.580399
+    },
+    "image": "https://source.unsplash.com/800x600/?hotel,bangalore",
+    "platformRatings": {
+      "google": 4.1,
+      "booking": 4.0,
+      "tripadvisor": 4.3
+    },
+    "reviews": [
+      "Great value for money, highly recommended.",
+      "Air conditioning was a bit noisy at night.",
+      "Wi-Fi was fast and reliable.",
+      "Parking is limited but works if you arrive early.",
+      "Wi-Fi was fast and reliable.",
+      "Family-friendly facilities and safe surroundings.",
+      "Family-friendly facilities and safe surroundings.",
+      "Location is perfect with easy access to attractions."
+    ],
+    "featureScores": {
+      "cleanliness": 8.7,
+      "location": 7.5,
+      "price": 8.3,
+      "amenities": 9.1,
+      "customer_service": 7.7
+    }
+  },
+  {
+    "id": 19,
+    "name": "Maple Haven",
+    "city": "Bangalore",
+    "coordinates": {
+      "lat": 12.968901,
+      "lng": 77.608566
+    },
+    "image": "https://source.unsplash.com/800x600/?hotel,bangalore",
+    "platformRatings": {
+      "google": 4.2,
+      "booking": 4.3,
+      "tripadvisor": 4.1
+    },
+    "reviews": [
+      "Family-friendly facilities and safe surroundings.",
+      "Location is perfect with easy access to attractions.",
+      "Location is perfect with easy access to attractions.",
+      "Breakfast could have had more options.",
+      "Amenities like pool and gym were top-notch.",
+      "Check-in was quick and hassle-free.",
+      "Check-in was quick and hassle-free."
+    ],
+    "featureScores": {
+      "cleanliness": 9.1,
+      "location": 8.1,
+      "price": 8.4,
+      "amenities": 8.3,
+      "customer_service": 8.0
+    }
+  },
+  {
+    "id": 20,
+    "name": "Magnolia Lodge",
+    "city": "Bangalore",
+    "coordinates": {
+      "lat": 12.995711,
+      "lng": 77.567949
+    },
+    "image": "https://source.unsplash.com/800x600/?hotel,bangalore",
+    "platformRatings": {
+      "google": 4.3,
+      "booking": 4.5,
+      "tripadvisor": 4.5
+    },
+    "reviews": [
+      "Breakfast spread was delicious and fresh.",
+      "Rooms were spotless and well-maintained.",
+      "Check-in was quick and hassle-free.",
+      "Housekeeping could be a bit faster.",
+      "Wi-Fi disconnected a couple of times.",
+      "Check-in was quick and hassle-free."
+    ],
+    "featureScores": {
+      "cleanliness": 9.2,
+      "location": 8.8,
+      "price": 7.5,
+      "amenities": 9.5,
+      "customer_service": 8.2
+    }
+  },
+  {
+    "id": 21,
+    "name": "Lotus Lodge",
+    "city": "Bangalore",
+    "coordinates": {
+      "lat": 12.980411,
+      "lng": 77.571522
+    },
+    "image": "https://source.unsplash.com/800x600/?hotel,bangalore",
+    "platformRatings": {
+      "google": 4.0,
+      "booking": 3.9,
+      "tripadvisor": 4.2
+    },
+    "reviews": [
+      "Housekeeping could be a bit faster.",
+      "Staff was extremely courteous and helpful.",
+      "Family-friendly facilities and safe surroundings.",
+      "Amenities like pool and gym were top-notch.",
+      "Staff was extremely courteous and helpful.",
+      "Breakfast could have had more options.",
+      "Noise levels were fine, but walls felt thin."
+    ],
+    "featureScores": {
+      "cleanliness": 8.2,
+      "location": 9.4,
+      "price": 6.7,
+      "amenities": 7.7,
+      "customer_service": 8.2
+    }
+  },
+  {
+    "id": 22,
+    "name": "Palm Grove Inn",
+    "city": "Jaipur",
+    "coordinates": {
+      "lat": 26.918959,
+      "lng": 75.771451
+    },
+    "image": "https://source.unsplash.com/800x600/?hotel,jaipur",
+    "platformRatings": {
+      "google": 4.2,
+      "booking": 4.3,
+      "tripadvisor": 4.4
+    },
+    "reviews": [
+      "Noise levels were fine, but walls felt thin.",
+      "Air conditioning was a bit noisy at night.",
+      "Breakfast spread was delicious and fresh.",
+      "Check-in was quick and hassle-free.",
+      "Great value for money, highly recommended."
+    ],
+    "featureScores": {
+      "cleanliness": 8.3,
+      "location": 7.9,
+      "price": 9.5,
+      "amenities": 8.4,
+      "customer_service": 8.1
+    }
+  },
+  {
+    "id": 23,
+    "name": "BlueWave Lodge",
+    "city": "Jaipur",
+    "coordinates": {
+      "lat": 26.922703,
+      "lng": 75.795013
+    },
+    "image": "https://source.unsplash.com/800x600/?hotel,jaipur",
+    "platformRatings": {
+      "google": 4.4,
+      "booking": 4.4,
+      "tripadvisor": 4.2
+    },
+    "reviews": [
+      "Breakfast could have had more options.",
+      "Amenities like pool and gym were top-notch.",
+      "Check-in was quick and hassle-free.",
+      "Breakfast could have had more options.",
+      "Amenities like pool and gym were top-notch.",
+      "Wi-Fi was fast and reliable.",
+      "Housekeeping could be a bit faster.",
+      "Family-friendly facilities and safe surroundings."
+    ],
+    "featureScores": {
+      "cleanliness": 7.4,
+      "location": 9.3,
+      "price": 9.2,
+      "amenities": 8.7,
+      "customer_service": 7.8
+    }
+  },
+  {
+    "id": 24,
+    "name": "Harbor Hotel",
+    "city": "Jaipur",
+    "coordinates": {
+      "lat": 26.918666,
+      "lng": 75.812737
+    },
+    "image": "https://source.unsplash.com/800x600/?hotel,jaipur",
+    "platformRatings": {
+      "google": 4.3,
+      "booking": 4.6,
+      "tripadvisor": 4.3
+    },
+    "reviews": [
+      "Wi-Fi was fast and reliable.",
+      "Check-in was quick and hassle-free.",
+      "Wi-Fi was fast and reliable.",
+      "Noise levels were fine, but walls felt thin.",
+      "Amenities like pool and gym were top-notch.",
+      "Room size is compact but manageable.",
+      "Beautiful interiors and comfortable beds.",
+      "Room size is compact but manageable."
+    ],
+    "featureScores": {
+      "cleanliness": 9.0,
+      "location": 8.6,
+      "price": 9.1,
+      "amenities": 8.7,
+      "customer_service": 8.2
+    }
+  },
+  {
+    "id": 25,
+    "name": "Regal Retreat",
+    "city": "Kolkata",
+    "coordinates": {
+      "lat": 22.550201,
+      "lng": 88.376783
+    },
+    "image": "https://source.unsplash.com/800x600/?hotel,kolkata",
+    "platformRatings": {
+      "google": 4.5,
+      "booking": 4.1,
+      "tripadvisor": 4.2
+    },
+    "reviews": [
+      "Beautiful interiors and comfortable beds.",
+      "Family-friendly facilities and safe surroundings.",
+      "Check-in was quick and hassle-free.",
+      "Wi-Fi disconnected a couple of times.",
+      "Wi-Fi was fast and reliable.",
+      "Breakfast spread was delicious and fresh."
+    ],
+    "featureScores": {
+      "cleanliness": 8.3,
+      "location": 9.1,
+      "price": 8.7,
+      "amenities": 8.7,
+      "customer_service": 8.6
+    }
+  },
+  {
+    "id": 26,
+    "name": "Crystal Suites",
+    "city": "Kolkata",
+    "coordinates": {
+      "lat": 22.584561,
+      "lng": 88.353102
+    },
+    "image": "https://source.unsplash.com/800x600/?hotel,kolkata",
+    "platformRatings": {
+      "google": 4.3,
+      "booking": 4.4,
+      "tripadvisor": 4.5
+    },
+    "reviews": [
+      "Hot water took time to come.",
+      "Amenities like pool and gym were top-notch.",
+      "Rooms were spotless and well-maintained.",
+      "Noise levels were fine, but walls felt thin.",
+      "Rooms were spotless and well-maintained.",
+      "Location is perfect with easy access to attractions.",
+      "Wi-Fi was fast and reliable."
+    ],
+    "featureScores": {
+      "cleanliness": 8.9,
+      "location": 9.5,
+      "price": 8.7,
+      "amenities": 7.5,
+      "customer_service": 9.1
+    }
+  },
+  {
+    "id": 27,
+    "name": "Grand Vista Inn",
+    "city": "Kolkata",
+    "coordinates": {
+      "lat": 22.576603,
+      "lng": 88.362109
+    },
+    "image": "https://source.unsplash.com/800x600/?hotel,kolkata",
+    "platformRatings": {
+      "google": 4.2,
+      "booking": 4.1,
+      "tripadvisor": 3.9
+    },
+    "reviews": [
+      "Beautiful interiors and comfortable beds.",
+      "Air conditioning was a bit noisy at night.",
+      "Air conditioning was a bit noisy at night.",
+      "Check-in was quick and hassle-free.",
+      "Beautiful interiors and comfortable beds."
+    ],
+    "featureScores": {
+      "cleanliness": 8.2,
+      "location": 7.8,
+      "price": 6.9,
+      "amenities": 9.5,
+      "customer_service": 8.6
+    }
+  },
+  {
+    "id": 28,
+    "name": "Crystal Resort",
+    "city": "Chennai",
+    "coordinates": {
+      "lat": 13.076234,
+      "lng": 80.29337
+    },
+    "image": "https://source.unsplash.com/800x600/?hotel,chennai",
+    "platformRatings": {
+      "google": 4.3,
+      "booking": 3.9,
+      "tripadvisor": 4.2
+    },
+    "reviews": [
+      "Staff was extremely courteous and helpful.",
+      "Location is perfect with easy access to attractions.",
+      "Location is perfect with easy access to attractions.",
+      "Wi-Fi was fast and reliable.",
+      "Housekeeping could be a bit faster.",
+      "Great value for money, highly recommended."
+    ],
+    "featureScores": {
+      "cleanliness": 7.9,
+      "location": 8.7,
+      "price": 8.0,
+      "amenities": 8.5,
+      "customer_service": 7.6
+    }
+  },
+  {
+    "id": 29,
+    "name": "Silver Leaf Hotel",
+    "city": "Chennai",
+    "coordinates": {
+      "lat": 13.093672,
+      "lng": 80.268149
+    },
+    "image": "https://source.unsplash.com/800x600/?hotel,chennai",
+    "platformRatings": {
+      "google": 4.7,
+      "booking": 4.5,
+      "tripadvisor": 4.5
+    },
+    "reviews": [
+      "Hot water took time to come.",
+      "Location is perfect with easy access to attractions.",
+      "Parking is limited but works if you arrive early.",
+      "Parking is limited but works if you arrive early.",
+      "Price felt slightly high for the room size.",
+      "Breakfast spread was delicious and fresh."
+    ],
+    "featureScores": {
+      "cleanliness": 8.8,
+      "location": 9.4,
+      "price": 9.0,
+      "amenities": 8.7,
+      "customer_service": 9.0
+    }
+  },
+  {
+    "id": 30,
+    "name": "Ivory Palace",
+    "city": "Chennai",
+    "coordinates": {
+      "lat": 13.106628,
+      "lng": 80.270726
+    },
+    "image": "https://source.unsplash.com/800x600/?hotel,chennai",
+    "platformRatings": {
+      "google": 3.8,
+      "booking": 3.7,
+      "tripadvisor": 4.1
+    },
+    "reviews": [
+      "Restaurant service was slow during peak hours.",
+      "Location is perfect with easy access to attractions.",
+      "Wi-Fi was fast and reliable.",
+      "Hot water took time to come.",
+      "Price felt slightly high for the room size."
+    ],
+    "featureScores": {
+      "cleanliness": 8.3,
+      "location": 7.6,
+      "price": 6.9,
+      "amenities": 8.2,
+      "customer_service": 8.2
+    }
+  }
+]
